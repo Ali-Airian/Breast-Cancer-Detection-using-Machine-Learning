@@ -20,7 +20,7 @@ breast_cancer.csv: The dataset in CSV format.
 LICENSE: The license information for the project.
 **How to Use**
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/breast-cancer-diagnosis.git
+git clone https://github.com/Ali-Airian/breast-cancer-diagnosis.git
 2. Navigate to the repository directory:
 cd breast-cancer-diagnosis
 3. Open and run the breast_cancer_diagnosis.ipynb Jupyter Notebook using Jupyter or any compatible notebook environment. This notebook will guide you through the entire process of loading the dataset, preprocessing, model training, and evaluation.
